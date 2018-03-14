@@ -19,6 +19,6 @@ Get your own API key:
 
 
 
-![ScreenShot](https://github.com/devalparikh/ReactNativeJsonRender/blob/master/ScreenshotofJsonReader.png?raw=true)
+![ScreenShot](https://github.com/devalparikh/CryptoNews-React-Native/blob/master/ScreenShotCryptoNews.png?raw=true)
 
 To run the project use: `react-native run-ios`
